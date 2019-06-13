@@ -8,4 +8,9 @@ public class DownloadFile {
 		
 	}
 	
+	
+	public void loadData() {
+		System.out.println("load Data");
+	}
+	
 }
